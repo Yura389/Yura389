@@ -25,5 +25,5 @@
   <br>
 </div>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yura981218&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yura981218&layout=compact&theme=radical)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yura389&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yura389&layout=compact&theme=radical)
